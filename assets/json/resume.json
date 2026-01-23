@@ -35,7 +35,6 @@
     {
       "name": "European Space Agency",
       "position": "Visiting Researcher",
-      // "url": "https://example.com",
       "startDate": "2024-09-01",
       "endDate": "-",
       "summary": "Research on Protocol Testing and Fuzzing for Spacecraft Communication Systems.",
@@ -44,7 +43,6 @@
     {
       "name": "CENSUS SA",
       "position": "Security Engineer",
-      // "url": "https://example.com",
       "startDate": "2022-12-01",
       "endDate": "2023-08-01",
       "summary": "Software Testing on Web/Mobile Applications and Network Security Assessments.",
@@ -53,26 +51,34 @@
     {
       "name": "Accenture Greece",
       "position": "Data Science New Associate",
-      // "url": "https://example.com",
       "startDate": "2022-03-01",
       "endDate": "2022-12-01",
       "summary": "DevOps, Backend Development and Data Analysis.",
       "highlights": []
     }
   ],
-  // "volunteer": [
-  //   {
-  //     "organization": "People's Climate March",
-  //     "location": "Zurich, Switzerland",
-  //     "position": "Lead Organizer",
-  //     "url": "https://example.com",
-  //     "startDate": "2014-04-01",
-  //     "endDate": "2015-07-01",
-  //     "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-  //     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-  //   }
-  // ],
+   "volunteer": [
+     {
+       "organization": "Eurosys '25 & ASPLOS '25 Conferences",
+       "location": "Rotterdam, Netherlands",
+       "position": "Volunteer",
+       "url": "https://2025.eurosys.org/",
+       "startDate": "2025-03-30",
+       "endDate": "2025-04-03",
+       "summary": "Volunteered at the Eurosys '25 & ASPLOS '25 conferences held in Rotterdam, assisting with event logistics and attendee support."
+       //"highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+     }
+   ],
   "education": [
+    {
+      "institution": "Delft Technical University",
+      "location": "Delft, Netherlands",
+      "url": "https://www.tudelft.nl/",
+      "area": "Systems Security",
+      "studyType": "PhD",
+      "startDate": "2025",
+      "endDate": "-"
+    },
     {
       "institution": "Delft Technical University",
       "location": "Delft, Netherlands",
