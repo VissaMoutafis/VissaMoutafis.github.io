@@ -22,4 +22,4 @@ calendar: true
 - Co-Supervised with Prof. A. Voulimenas.
   - Bootloader Security for Space Systems, MSc, Matyas Kollert (On-going)
   - Hypervisor Fuzzing, Daniel Peter, MSc, Daniel Peter (On-going)
-  - Dynamic Analysis and Runtime Debloating, MSc, Yigit Colakoglu
+  - Dynamic Analysis and Runtime Debloating, MSc, Yigit Colakoglu (On-going)
