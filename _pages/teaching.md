@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Courses, Lectures and Supervision
 nav: true
-nav_order: 6
+nav_order: 5
 calendar: true
 ---
 
@@ -23,3 +23,8 @@ calendar: true
   - Bootloader Security for Space Systems, MSc, Matyas Kollert (On-going)
   - Hypervisor Fuzzing, Daniel Peter, MSc, Daniel Peter (On-going)
   - Dynamic Analysis and Runtime Debloating, MSc, Yigit Colakoglu (On-going)
+
+
+# Talks
+## Invited Talks
+- (My first talk @ DIT !) _Towards Enhanced Dynamic Analysis and Automated Testing_ ; [slides](../assets/pdf/dit-presentation.pdf) ; [recording](https://delos.uoa.gr/opendelos/player?rid=c483de8a)
