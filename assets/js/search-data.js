@@ -10,27 +10,30 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "Publications so far.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "A bit of everything. For full CV download the attachment :)",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "Courses, Lectures and Supervision",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{
+        },{id: "nav-cv",
+          title: "CV",
+          description: "A bit of everything. For full CV download the attachment :)",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "news-started-my-phd-in-system-s-security-tu-delft",
+          title: 'Started my PhD in System’s Security @ TU Delft.',
+          description: "",
+          section: "News",},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
